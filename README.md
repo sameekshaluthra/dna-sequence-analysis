@@ -108,9 +108,12 @@ Enter your sequence (e.g., `atcgacgcacg`).
 The notebook produces:
 
 - Nucleotide counts and GC content  
+![](https://github.com/sameekshaluthra/dna-sequence-analysis/blob/main/gc_content.png?raw=true)
 - Transcribed RNA sequence  
 - Translated protein sequence  
 - Bar & pie charts  
+![](https://github.com/sameekshaluthra/dna-sequence-analysis/blob/main/nucleotide_composition_barchart.png?raw=true)
+![](https://github.com/sameekshaluthra/dna-sequence-analysis/blob/main/nucleotide_composition_piechart.png?raw=true)
 - GC content comparison across multiple sequences  
 
 ---
